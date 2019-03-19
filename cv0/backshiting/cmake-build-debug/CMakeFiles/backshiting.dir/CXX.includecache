@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kvitajin/CLionProjects/vsb/pr2/cv0/backshiting/main.cpp
+iostream
+-
+vector
+-
+random
+-
+

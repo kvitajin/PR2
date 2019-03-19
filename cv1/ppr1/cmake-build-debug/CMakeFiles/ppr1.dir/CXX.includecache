@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kvitajin/CLionProjects/vsb/pr2/cv1/ppr1/main.cpp
+iostream
+-
+vector
+-
+random
+-
+

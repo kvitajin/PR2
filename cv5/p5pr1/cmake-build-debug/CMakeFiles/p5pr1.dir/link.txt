@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/p5pr1.dir/main.cpp.o  -o p5pr1 
